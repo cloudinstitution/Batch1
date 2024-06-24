@@ -4,3 +4,5 @@ print(a)
 print(b)
 print(a+b)
 print("hello")
+print('new user')
+
