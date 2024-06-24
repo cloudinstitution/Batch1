@@ -4,8 +4,11 @@ print(a)
 print(b)
 print(a+b)
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("hello")
 print('new user')
 
+=======
+>>>>>>> parent of 4dd3c55 ( 7 th commit)
 =======
 >>>>>>> parent of 4dd3c55 ( 7 th commit)
